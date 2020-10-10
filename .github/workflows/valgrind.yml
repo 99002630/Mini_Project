@@ -19,7 +19,5 @@ jobs:
         sudo apt-get -y install libcunit1 libcunit1-doc libcunit1-dev 
     - name: make test
       run: |
-    - name: valgrindcheck  
-      run: chmod a+x all.out
-    - name: valgrindcheck1  
-      run: valgrind ./all.out
+        make test -C Mini_Project/Cpp_MiniProject/Makefile
+        valgrind ./Mini_Project/Cpp_MiniProject/all.out
