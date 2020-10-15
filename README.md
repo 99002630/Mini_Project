@@ -3,3 +3,4 @@
 ![cppcheck-action](https://github.com/99002630/Mini_Project/workflows/cppcheck-action/badge.svg)
 ![Valgrind](https://github.com/99002630/Mini_Project/workflows/Valgrind/badge.svg)
 ![C/C++ CI](https://github.com/99002630/Mini_Project/workflows/C/C++%20CI/badge.svg)
+![UNIT TESTING](https://github.com/99002630/Mini_Project/workflows/UNIT%20TESTING/badge.svg?branch=master)
