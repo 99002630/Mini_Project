@@ -84,7 +84,6 @@ int derived::get_maxprotein()
 		
 }
 
-/*
 int derived::get_minfat()
 {
 	int temp, min;
@@ -106,7 +105,7 @@ int derived::get_minfat()
 	//cout<<min<<endl;
 	return(min);	
 }
-*/
+
 /*int main()
 {
 	derived d;
